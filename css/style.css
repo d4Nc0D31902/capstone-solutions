@@ -265,7 +265,7 @@ Parallax
   background-image: url(../img/parallax/1.jpg);
 }
 #parallax2 {
-  background-image: url(../img/parallax/2.jpg);
+  background-image: url(../img/parallax/b.jpg);
 }
 
 /* ================================
@@ -411,7 +411,7 @@ Intro
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   /* border: 2px solid #00c1c1; */
-  border: 2px solid wheat;
+  border: 2px solid white;
 }
 
 #intro .btn-get-started:hover {
